@@ -1,4 +1,4 @@
 # BIT-darbai
 
 
-Čia bus talpinamos mano repozitorijos.
+Čia bus saugomi BIT praktiniai darbai.
